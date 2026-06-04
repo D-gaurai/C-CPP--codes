@@ -21,7 +21,7 @@ for(int i=0;i<n;i++){
 int duplicate=0;
 for(int k=0;k<i;k++){
 if(arr[i]==arr[k]){
-duplicates=1;
+duplicate=1;
 break;}
 }
 if(duplicate){
