@@ -13,6 +13,9 @@ int main(){
         smax = arr[i];
     }
 }
-printf("%d",smax);
+    if(smax==INT_MIN){
+        printf("no second largest element exist");}
+    else{
+printf("%d",smax);}
 return 0;
 }
