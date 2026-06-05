@@ -1,6 +1,6 @@
 /*#include<stdio.h>
 int main(){
-    int arr[7] = {1,2,3,4,5,6,7};
+    int arr[] = {1,2,3,4,5,6,7};
     for(int i=0; i<=6;i++){
         if(i%2!=0) arr[i]*=2;
         
@@ -16,7 +16,7 @@ int main(){
 
     /*#include<stdio.h>
 int main(){
-    int arr[7] = {1,2,3,4,5,6,7};
+    int arr[] = {1,2,3,4,5,6,7};
     int sumeven = 0;
     int sumodd = 0;
     for(int i=0; i<=6;i++){
@@ -41,7 +41,7 @@ int main(){
         int i;
         int sumodd=0;
         int sumeven=0;
-        int arr[7]= {23,34,67,34,98,56,34};
+        int arr[]={23,34,67,34,98,56,34};
         for(i=0;i<=6;i++){
             if(i%2!=0){
                 sumeven +=arr[i];
