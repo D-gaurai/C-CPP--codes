@@ -4,7 +4,8 @@ int main(){
     int arr[7]= {7,6,5,4,3,2,1};
     int max = INT_MIN;
     int smax = INT_MIN;
-    for(int i=0;i<=6;i++){
+    int n = sizeof(arr)/sizeof(arr[0]); 
+    for(int i=0;i<n;i++){
         if(max<arr[i]){
         smax = max;
         max = arr[i];
