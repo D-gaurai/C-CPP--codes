@@ -14,7 +14,8 @@ int main(){
         }
      }
     }
-   // printf("%d",totaltriplets);
+   printf("%d",totaltriplets);
+   printf("\n");
     printf("%d",n);
     return 0;
 }
