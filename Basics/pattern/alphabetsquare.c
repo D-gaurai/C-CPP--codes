@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main(){
     int n,i,j;
     printf("enter the no of rows:");
@@ -18,7 +18,7 @@ int main(){
 
 //print alphabet triangle
 
-#include<stdio.h>
+/*#include<stdio.h>
 int main(){
     int n,i,j;
     printf("enter the no of rows:");
@@ -38,7 +38,7 @@ int main(){
 
 //print reverse alphabet triangle
 
-#include<stdio.h>
+/*#include<stdio.h>
 int main(){
     int n,i,j;
     printf("enter the no of rows:");
@@ -55,4 +55,4 @@ int main(){
         printf("\n");
     }
     return 0;
-}
+}*/
