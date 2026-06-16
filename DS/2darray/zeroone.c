@@ -1,3 +1,4 @@
+// row with maximum 1's in a binary matrix
 #include<stdio.h>
 int main(){
     int arr[3][4]= {{1,0,1,1},{0,1,0,1},{1,1,1,1}};
