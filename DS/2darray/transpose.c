@@ -1,3 +1,4 @@
+//transpose of a matrix
 #include<stdio.h>
 int main(){
     int r;int c;
