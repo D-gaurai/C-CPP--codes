@@ -1,3 +1,4 @@
+//spiral print of a matrix
 #include<stdio.h>
 int main(){
     int m;
