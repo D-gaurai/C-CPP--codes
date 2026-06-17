@@ -1,3 +1,4 @@
+//binary search
 #include<stdio.h>
 int main(){
 int a[20] ={2,4,7,9,17,19,27,36,71,77,82,85,91,95};
