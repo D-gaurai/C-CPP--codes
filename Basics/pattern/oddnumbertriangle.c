@@ -47,6 +47,7 @@ int main(){
     scanf("%d",&m);
     for(i=1;i<=n;i++){
     int a=1;
+        
 for(int j=1;j<=m;j++){
 printf("%d ",a);
 a=a+2;
