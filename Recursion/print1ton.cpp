@@ -36,4 +36,4 @@ int main(){
     cin>>N;
     print(N);
     return 0;
-}*/
+}
